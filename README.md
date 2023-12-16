@@ -1,3 +1,11 @@
+
+
+# Ecommerce Store
+
+[LIVE DEMO](https://ecommerce-store-sigma-brown.vercel.app/)
+ 
+(https://github.com/awnish04/ecommerce-store/assets/64547504/82262cea-61dc-44e4-b1b9-9e8c2d3448eb)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
