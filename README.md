@@ -3,8 +3,8 @@
 # Ecommerce Store
 
 [LIVE DEMO](https://ecommerce-store-sigma-brown.vercel.app/)
- 
-(https://github.com/awnish04/ecommerce-store/assets/64547504/82262cea-61dc-44e4-b1b9-9e8c2d3448eb)
+![screencapture-ecommerce-store-sigma-brown-vercel-app-2023-12-16-21_32_12](https://github.com/awnish04/ecommerce-store/assets/64547504/88475a9b-4089-4327-b0b9-614fd8d2f3e5)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
